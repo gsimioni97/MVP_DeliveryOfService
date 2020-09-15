@@ -1,16 +1,12 @@
 # deliveryofservice
 
-A new Flutter project.
+Projeto APP Delivery of Service
 
-## Getting Started
+## Desenvolvido por Guilherme Rey Simioni e Renan Joly
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Assita o Video abaixo para verificar todo o fluxo do aplicativo:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Ver o funcionamento desse MVP](https://www.youtube.com/watch?v=-G0IQOYTYlw&feature=youtu.be)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
