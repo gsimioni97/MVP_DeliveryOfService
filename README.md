@@ -1,7 +1,7 @@
 # MVP_DeliveryOfService
 Esse repositório conterá uma MVP de uma aplicativo mobile para sistemas Android e iOS, desenvolvido em Flutter e sua respectiva linguagem DART. 
 
-O desafio foi proposta pela faculdade FIAP solicitando os seguintes requisitos:
+ ##O desafio foi proposta pela faculdade FIAP solicitando os seguintes requisitos:
 "
   -     A lista de funcionalidades do MVP do app;
 
@@ -20,7 +20,7 @@ Nesse repositório conterá um MVP simples para demonstrar o cerne do que descre
 
 
   
-  Funcionabilidades empregadas:
+  ## Funcionabilidades empregadas:
   
 - Conterá um login com autenticação via Firebase;
 - Cadastro de credenciais, como e-mail e senha, para logar no aplicativo;
@@ -33,7 +33,7 @@ Nesse repositório conterá um MVP simples para demonstrar o cerne do que descre
 
 
 
-  Tecnologias utilizadas:
+  ## Tecnologias utilizadas:
   
 - IDE Visual Studio Code, utilizado para decodificar o aplicativo;
 - Trilha Flutter, escolhida como caminho para desenvolvimento do aplicativo;
@@ -46,13 +46,13 @@ Nesse repositório conterá um MVP simples para demonstrar o cerne do que descre
 
 
 
-  Conclusão
+  ## Conclusão
   
 Nós do GSRJ tivemos um enorme desafio para o desenvolvimento desse MVP, visto que não temos nenhuma prático com desenvolvimento mobile e o conteúdo apresentado foi fortemente baseado nos estudos dos capítulos e alguns tutoriais na internet. Estamos contente com o resultado que demonstrou todo nosso esforço e acreditamos que conseguimos cumprir o que foi solicitado nesse capítulo. 
 Conseguimos através desse trabalho analisar o vasto mundo de possibilidades no desenvolvimento mobile e sua complexidade também.
 Estamos abertos a feedback com melhorias, correções, pois isso agrega muito no aumento de conhecimento e ajuda a gerar melhores práticas de trabalho.
 
 
-Referência do layout
+Referência do layout: 
 https://github.com/andrebaltieri/flutter-doglfe
 
