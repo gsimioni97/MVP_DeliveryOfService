@@ -19,13 +19,13 @@ O desafio foi proposta pela faculdade FIAP solicitando os seguintes requisitos:
   
   Funcionabilidades empregadas:
   
-•	Conterá um login com autenticação via Firebase;
-•	Cadastro de credenciais, como e-mail e senha, para logar no aplicativo;
-•	Tela de recuperação de senha com recebimento de e-mail para redefinição;
-•	Página home com Card List apresentando botão de favorito em cada conteúdo e menu lateral;
-•	Página profile onde conterá as credenciais de login do usuário, apenas para visualização;
-•	Página favoritos onde conterá todos os conteúdos “favoritados”;
-•	Botão sair para deslogar do aplicativo.
+- Conterá um login com autenticação via Firebase;
+- Cadastro de credenciais, como e-mail e senha, para logar no aplicativo;
+- Tela de recuperação de senha com recebimento de e-mail para redefinição;
+- Página home com Card List apresentando botão de favorito em cada conteúdo e menu lateral;
+- Página profile onde conterá as credenciais de login do usuário, apenas para visualização;
+- Página favoritos onde conterá todos os conteúdos “favoritados”;
+- Botão sair para deslogar do aplicativo.
 
 
 
