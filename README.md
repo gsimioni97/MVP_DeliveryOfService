@@ -53,4 +53,6 @@ Conseguimos através desse trabalho analisar o vasto mundo de possibilidades no 
 Estamos abertos a feedback com melhorias, correções, pois isso agrega muito no aumento de conhecimento e ajuda a gerar melhores práticas de trabalho.
 
 
+Referência do layout
+https://github.com/andrebaltieri/flutter-doglfe
 
