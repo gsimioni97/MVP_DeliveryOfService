@@ -1,0 +1,41 @@
+[{
+	"nome": "Fiapoldo",
+	"categoria": "Pedreiro",
+	"icone": "https://i.ibb.co/p1zHLnF/pedreiro.png",
+	"favorito": false,
+	"imagem": "https://i.ibb.co/9h1r0BR/Fiapoldopedreiro.jpg",
+	"descricao": "Forneço serviço para construções em geral, seja grande ou pequena, para empreiteiras ou pessoas físicas, entre em contato comigo através do número (11) 99999-9999 para mais detalhes, como solicitação de orçamentos, disponibilidade e para saber sobre meus serviços que são mais de 10 anos de experiência no ramo."
+},
+{
+	"nome": "Fiaponsio",
+	"categoria": "Pintor",
+	"icone": "https://i.ibb.co/7VqPZTK/pintor.png",
+	"favorito": false,
+	"imagem": "https://i.ibb.co/bzG6zvr/Fiaponsiopintor.png",
+	"descricao": "Forneço serviço de pintura em geral, seja grande ou pequena, para empreiteiras ou pessoas físicas, entre em contato comigo através do número (11) 99999-9999 para mais detalhes, como solicitação de orçamentos, disponibilidade e para saber sobre meus serviços que são mais de 10 anos de experiência no ramo."
+},
+{
+	"nome": "Fiapudo",
+	"categoria": "Musico",
+	"icone": "https://i.ibb.co/cYTrCmG/musico.png",
+	"favorito": false,
+	"imagem": "https://i.ibb.co/D7f3BsH/Fiapudomusico.png",
+	"descricao": "Realizo eventos, casamentos, tudo para animar qualquer tipo de festa com repertório grande e bem eclético, entre em contato comigo através do número (11) 99999-9999 para mais detalhes, como solicitação de orçamentos, disponibilidade e para saber sobre meu repetório musical"
+},
+{
+	"nome": "Fiapaldo",
+	"categoria": "Pedreiro",
+	"icone": "https://i.ibb.co/p1zHLnF/pedreiro.png",
+	"favorito": false,
+	"imagem": "https://i.ibb.co/TR2FJ6Q/Fiapaldopedreiro.jpg",
+	"descricao": "Forneço serviço para construções em geral, seja grande ou pequena, para empreiteiras ou pessoas físicas, entre em contato comigo através do número (11) 99999-9999 para mais detalhes, como solicitação de orçamentos, disponibilidade e para saber sobre meus serviços que são mais de 10 anos de experiência no ramo."
+},
+{
+	"nome": "Fiapelza",
+	"categoria": "Baba",
+	"icone": "https://i.ibb.co/XzVYFW8/baba.png",
+	"favorito": false,
+	"imagem": "https://i.ibb.co/Q885wwF/Fiapelzababa.png",
+	"descricao": "Cuido de crianças e idosos, faço acompanhamento em hospitais ou qualquer outro local, sou formada na área e trabalho com isso há mais de cinco anos, entre em contato comigo através do número (11) 99999-9999 para mais detalhes, como solicitação de orçamentos e disponibilidade."
+}
+]
