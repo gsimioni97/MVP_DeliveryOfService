@@ -1,7 +1,7 @@
 # MVP_DeliveryOfService
 Esse repositório conterá uma MVP de uma aplicativo mobile para sistemas Android e iOS, desenvolvido em Flutter e sua respectiva linguagem DART. 
 
- ##O desafio foi proposta pela faculdade FIAP solicitando os seguintes requisitos:
+ ## O desafio foi proposta pela faculdade FIAP solicitando os seguintes requisitos:
 "
   -     A lista de funcionalidades do MVP do app;
 
